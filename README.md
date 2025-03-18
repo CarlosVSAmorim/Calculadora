@@ -2,7 +2,7 @@
 
 Este é um projeto de uma **calculadora simples** desenvolvida em **C#** para execução via **prompt de comando**.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Realiza operações matemáticas básicas:
   - Adição (+)
@@ -11,7 +11,7 @@ Este é um projeto de uma **calculadora simples** desenvolvida em **C#** para ex
   - Divisão (/)
 - Interface simples via terminal
 
-## 📜 Exemplo de Uso
+## Exemplo de Uso
 
 ```
 Digite o primeiro número: 10
