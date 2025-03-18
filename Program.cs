@@ -2,7 +2,7 @@
 {
 	Console.Clear();
 	Console.WriteLine("-----------------------------------------");
-	Console.WriteLine("Calculadora Tabajara 2025");
+	Console.WriteLine("Calculadora Do Carlos 2025");
 	Console.WriteLine("-----------------------------------------");
 	Console.WriteLine("1 - Somar");
 	Console.WriteLine("2 - Subtrair");
@@ -20,16 +20,6 @@
 		break;
 	
 	Console.WriteLine("-----------------------------------------");
-
-	static double EscolhaNumero()
-	{
-	double numero = 0;
-
-	Console.Write("Digite o Numero: ");
-	numero = Convert.ToInt32(Console.ReadLine());
-
-	return numero;
-	}
 
 	double numero1;
 	double numero2;
@@ -74,6 +64,16 @@
 			continue;
 	}
 
+	static double EscolhaNumero()
+	{
+		double numero = 0;
+
+		Console.Write("Digite o Numero: ");
+		numero = Convert.ToInt32(Console.ReadLine());
+
+		return numero;
+	}
+	
 	void MensagemResultado(double resultado){
 	Console.WriteLine("-----------------------------------------");
 	Console.WriteLine($"Resultado: {resultado}");
