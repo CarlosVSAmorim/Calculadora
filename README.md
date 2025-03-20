@@ -13,11 +13,3 @@ Este é um projeto de uma **calculadora simples** desenvolvida em **C#** para ex
   - Divisão (/)
 - Interface simples via terminal
 
-## Exemplo de Uso
-
-```
-Digite o primeiro número: 10
-Digite o operador (+, -, *, /): +
-Digite o segundo número: 5
-Resultado: 15
-```
